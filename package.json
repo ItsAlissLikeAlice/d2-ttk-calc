@@ -2,6 +2,7 @@
   "name": "d2-ttk-calc",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://itsalisslikealice.github.io/d2-ttk-calc/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
