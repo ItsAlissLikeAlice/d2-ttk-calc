@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import logo from './logo.svg';
 import cx from 'classnames';
 
 import calculateAllTtks, {ShotComboWithTtk} from './utils/ttk-calc';
