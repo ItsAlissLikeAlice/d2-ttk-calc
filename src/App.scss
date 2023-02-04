@@ -1,5 +1,15 @@
 .App {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0rem 2rem;
+
+  .optimal {
+    color: green;
+  }
+
+  .slowest:not(.optimal) {
+    color: red;
+  }
 }
 
 .App-logo {
